@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap');
+body {
+    background: lightblue;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 2px;
+    left: 17px;
+    position: absolute;
+    align-items: center;
+    top: 10px;
+    left: 450px;
+    transform: translate(80%, 30%);
+}
+
+.para {
+    font-family: 'Dancing Script', cursive;
+    width: 600px;
+    transform: translate(80%, 130%);
+}
